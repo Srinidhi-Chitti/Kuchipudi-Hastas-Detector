@@ -112,3 +112,10 @@ running?
 python train_model.py
 and after the training of the model only then
 python classify_realtime.py
+
+
+## 📸 Screenshot
+
+Here's a preview of the application in action:
+
+![App Screenshot](https://github.com/Srinidhi-Chitti/Kuchipudi-Hastas-Detector/blob/main/Screenshot%202025-07-14%20142305.png)
