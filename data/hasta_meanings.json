@@ -1,0 +1,730 @@
+{
+  "pataka": {
+    "type": "Asamyukta",
+    "meaning": "Flag",
+    "description": "All fingers are extended and held close together, thumb bent slightly inward.",
+    "use_cases": [
+      "Denial or negation",
+      "To represent a forest or clouds",
+      "To show blessing or stopping",
+      "To begin a story"
+    ],
+    "songs": [
+      "Dashavataram – used to begin the narration of the ten incarnations",
+      "Bhama Kalapam – in dramatic introductions"
+    ]
+  },
+  "tripataka": {
+    "type": "Asamyukta",
+    "meaning": "Three Parts of a Flag",
+    "description": "Same as Pataka but the ring finger is bent.",
+    "use_cases": [
+      "To represent a crown",
+      "Tree, thunder, or flames",
+      "An arrow"
+    ],
+    "songs": [
+      "Tarangam – flame of a diya",
+      "Ksheera Sagara Madhanam – representing trees"
+    ]
+  },
+  "ardhapathaka": {
+    "type": "Asamyukta",
+    "meaning": "Half Flag",
+    "description": "Like Tripataka but the little finger is also bent.",
+    "use_cases": [
+      "Knife or dagger",
+      "Flag being waved",
+      "Board or plank"
+    ],
+    "songs": [
+      "Bhama Kalapam – holding ornaments",
+      "Various Alarippus"
+    ]
+  },
+  "kartarimukha": {
+    "type": "Asamyukta",
+    "meaning": "Scissors or Tongs",
+    "description": "Index and middle finger form a V-shape; thumb holds the bent ring and little fingers.",
+    "use_cases": [
+      "Separation of lovers",
+      "Opposition",
+      "Falling or weeping",
+      "Eyes"
+    ],
+    "songs": [
+      "Keerthanams showing Radha-Krishna separation",
+      "Dramatic sequences"
+    ]
+  },
+  "mayura": {
+    "type": "Asamyukta",
+    "meaning": "Peacock",
+    "description": "Ring finger touches the tip of the thumb; other fingers extended.",
+    "use_cases": [
+      "Peacock",
+      "Marking a spot",
+      "Applying Tilak or mascara"
+    ],
+    "songs": [
+      "Mayura Alarippu",
+      "Ganesha Vandana"
+    ]
+  },
+  "ardhachandra": {
+    "type": "Asamyukta",
+    "meaning": "Half Moon",
+    "description": "All fingers are extended, thumb is extended outward (not bent inward like in Pataka).",
+    "use_cases": [
+      "Moon",
+      "Offering Arghya (ritual)",
+      "Showing a plate or salutation"
+    ],
+    "songs": [
+      "Chandrachooda Shiva songs",
+      "Rangapravesam dances"
+    ]
+  },
+  "arala": {
+    "type": "Asamyukta",
+    "meaning": "Bent",
+    "description": "Index finger is bent, other fingers extended (variation of Pataka).",
+    "use_cases": [
+      "Drinking nectar or poison",
+      "Wind or breeze"
+    ],
+    "songs": [
+      "Krishna Leela – Krishna drinking butter",
+      "Alarippu for subtle effects"
+    ]
+  },
+  "shukatunda": {
+    "type": "Asamyukta",
+    "meaning": "Parrot’s Beak",
+    "description": "Ring finger is bent in Arala Mudra to resemble a parrot’s beak.",
+    "use_cases": [
+      "Parrot",
+      "Shooting an arrow",
+      "Remembering something"
+    ],
+    "songs": [
+      "Shuka Sabdam",
+      "Padams referencing parrot messengers"
+    ]
+  },
+  "mushti": {
+    "type": "Asamyukta",
+    "meaning": "Fist",
+    "description": "Fingers curled tightly into a fist, thumb placed over them or inside.",
+    "use_cases": [
+      "Steadfastness",
+      "Holding hair or weapons",
+      "Wrestling"
+    ],
+    "songs": [
+      "Veera Nrityas",
+      "Describing Durga or warriors"
+    ]
+  },
+  "shikhara": {
+    "type": "Asamyukta",
+    "meaning": "Peak or Pinnacle",
+    "description": "All fingers bent into a fist, with the thumb raised upright.",
+    "use_cases": [
+      "Bow",
+      "Lips",
+      "To show husband",
+      "Resolve"
+    ],
+    "songs": [
+      "Marriage scenes in Kuchipudi",
+      "Symbolic moments in Bhama Kalapam"
+    ]
+  },
+  "kapittha": {
+    "type": "Asamyukta",
+    "meaning": "Wood Apple",
+    "description": "Like Shikhara, but index finger bends and touches thumb.",
+    "use_cases": [
+      "Lakshmi or Saraswati",
+      "Milking a cow",
+      "Holding cymbals"
+    ],
+    "songs": [
+      "Devi Keerthanas",
+      "Ksheerabdhi Kanyakaku"
+    ]
+  },
+  "katakamukha": {
+    "type": "Asamyukta",
+    "meaning": "Opening of a bracelet",
+    "description": "Thumb, index, and middle fingers joined; other two fingers raised.",
+    "use_cases": [
+      "Wearing a necklace",
+      "Picking flowers",
+      "Tying a garland"
+    ],
+    "songs": [
+      "Alarippu sequences",
+      "Describing Sringara"
+    ]
+  },
+  "suchi": {
+    "type": "Asamyukta",
+    "meaning": "Needle",
+    "description": "Only index finger is extended, others form a fist.",
+    "use_cases": [
+      "Number one",
+      "Showing a person",
+      "Pointing"
+    ],
+    "songs": [
+      "Keertanams pointing to deities",
+      "Yashoda pointing at Krishna"
+    ]
+  },
+  "chandrakala": {
+    "type": "Asamyukta",
+    "meaning": "Digit of the Moon",
+    "description": "Suchi Mudra with thumb also extended.",
+    "use_cases": [
+      "Moon crescent",
+      "Face",
+      "Shiva’s adornment"
+    ],
+    "songs": [
+      "Chandrachooda Shiva stotras",
+      "Stories of Shiva"
+    ]
+  },
+  "padmakosha": {
+    "type": "Asamyukta",
+    "meaning": "Lotus Bud",
+    "description": "Fingers slightly bent and spread to form a cupped shape.",
+    "use_cases": [
+      "Fruit or flower",
+      "Offering",
+      "Bowl"
+    ],
+    "songs": [
+      "Pushpanjali",
+      "Ganesha Vandana"
+    ]
+  },
+  "sarpashirsha": {
+    "type": "Asamyukta",
+    "meaning": "Snake’s Hood",
+    "description": "Like Pataka, but fingers bend forward from knuckles to form a hood shape.",
+    "use_cases": [
+      "Serpent hood",
+      "Sandal paste",
+      "Snake worship"
+    ],
+    "songs": [
+      "Nagendra Haraya",
+      "Krishna dancing on Kaliya"
+    ]
+  },
+  "mrigashirsha": {
+    "type": "Asamyukta",
+    "meaning": "Deer’s Head",
+    "description": "All fingers bent except the thumb and little finger which are extended.",
+    "use_cases": [
+      "Deer",
+      "Face of a woman",
+      "Calling someone"
+    ],
+    "songs": [
+      "Varnams showing deer scenes",
+      "Krishna with deer"
+    ]
+  },
+  "simhamukha": {
+    "type": "Asamyukta",
+    "meaning": "Lion Face",
+    "description": "Thumb presses against bent middle and ring fingers; index and little fingers extended.",
+    "use_cases": [
+      "Lion’s face",
+      "Garland",
+      "Medicinal herbs"
+    ],
+    "songs": [
+      "Simha Pranam",
+      "Describing Narasimha"
+    ]
+  },
+  "langula": {
+    "type": "Asamyukta",
+    "meaning": "Tail or Bell",
+    "description": "Ring finger is bent while others are straight.",
+    "use_cases": [
+      "Bell",
+      "Tail",
+      "Tiny instruments"
+    ],
+    "songs": [
+      "Dance with ghungroos",
+      "Shiva tandava"
+    ]
+  },
+  "alapadma": {
+    "type": "Asamyukta",
+    "meaning": "Fully Bloomed Lotus",
+    "description": "Fingers spread and curved to form an open flower.",
+    "use_cases": [
+      "Beauty",
+      "Mirror",
+      "Wheels or flowers"
+    ],
+    "songs": [
+      "Pushpanjali",
+      "Devi Vandana"
+    ]
+  },
+  "chatura": {
+    "type": "Asamyukta",
+    "meaning": "Square",
+    "description": "All fingers bent slightly; thumb touches base of fingers.",
+    "use_cases": [
+      "Smartness or cleverness",
+      "Gold",
+      "Acting"
+    ],
+    "songs": [
+      "Natya sequences",
+      "Describing artisans"
+    ]
+  },
+  "bhramara": {
+    "type": "Asamyukta",
+    "meaning": "Bee",
+    "description": "Index finger curls inside joined thumb and middle finger.",
+    "use_cases": [
+      "Bee or insect",
+      "Buzzing or vibration"
+    ],
+    "songs": [
+      "Krishna with bees",
+      "Meghadootam themes"
+    ]
+  },
+  "hamsasya": {
+    "type": "Asamyukta",
+    "meaning": "Swan's Bill",
+    "description": "Thumb and index finger touch; others extended and spread apart.",
+    "use_cases": [
+      "Pearl",
+      "Offering",
+      "Holding a garland"
+    ],
+    "songs": [
+      "Krishna with a pearl",
+      "Wedding scenes"
+    ]
+  },
+  "hamsapaksha": {
+    "type": "Asamyukta",
+    "meaning": "Swan",
+    "description": "Like Mrigashirsha but thumb is also bent.",
+    "use_cases": [
+      "Swan",
+      "Fan",
+      "Decorative items"
+    ],
+    "songs": [
+      "Descriptions of mansions",
+      "Decorated palaces"
+    ]
+  },
+  "sandamsha": {
+    "type": "Asamyukta",
+    "meaning": "Pincers or Tongs",
+    "description": "Fingers open and close in rhythmic motion like clamping.",
+    "use_cases": [
+      "Giving and taking",
+      "Fire",
+      "Cutting"
+    ],
+    "songs": [
+      "Bhakti offerings",
+      "Kitchen scenes"
+    ]
+  },
+  "mukula": {
+    "type": "Asamyukta",
+    "meaning": "Bud",
+    "description": "All fingers brought together to a point, fingertips touch.",
+    "use_cases": [
+      "Bud",
+      "Feeding a child",
+      "Eating"
+    ],
+    "songs": [
+      "Krishna Leela",
+      "Nature-based sequences"
+    ]
+  },
+  "tamrachuda": {
+    "type": "Asamyukta",
+    "meaning": "Rooster",
+    "description": "Index finger bent in Suchi Mudra.",
+    "use_cases": [
+      "Cock",
+      "Morning",
+      "Sound"
+    ],
+    "songs": [
+      "Describing sunrise",
+      "Kukkuta Varnanam"
+    ]
+  },
+  "trishula": {
+    "type": "Asamyukta",
+    "meaning": "Trident",
+    "description": "Thumb and little finger bent inward; other fingers straight and upright.",
+    "use_cases": [
+      "Trishula weapon",
+      "Shiva representation",
+      "Divine power"
+    ],
+    "songs": [
+      "Shiva Tandava",
+      "Veerabhadra episodes"
+    ]
+  },
+  
+  "anjali": {
+    "type": "Samyukta",
+    "meaning": "Salutation",
+    "description": "Both palms in Pataka are joined together. Commonly used in Indian culture for greetings.",
+    "use_cases": [
+      "Prayer",
+      "Greeting elders",
+      "Offering salutations"
+    ],
+    "songs": [
+      "Pushpanjali",
+      "Namaskara in Alarippu"
+    ]
+  },
+  "kapotham": {
+    "type": "Samyukta",
+    "meaning": "Dove",
+    "description": "Anjali Mudra with bulging knuckles; palms touch only at tips and base.",
+    "use_cases": [
+      "Submission",
+      "Respectful salutation",
+      "Sacred rituals"
+    ],
+    "songs": [
+      "Temple prayers",
+      "Bhakti pieces"
+    ]
+  },
+  "karkatam": {
+    "type": "Samyukta",
+    "meaning": "Twist/Stretch",
+    "description": "Fingers of both hands are interlocked together.",
+    "use_cases": [
+      "Stretching",
+      "Crowd",
+      "Conch blowing"
+    ],
+    "songs": [
+      "Dramatic sequences",
+      "Describing sea waves"
+    ]
+  },
+  "swastikam": {
+    "type": "Samyukta",
+    "meaning": "Crossed",
+    "description": "Both palms in Pataka are crossed at the wrists.",
+    "use_cases": [
+      "Restraint",
+      "Opposition",
+      "Symbol of auspiciousness"
+    ],
+    "songs": [
+      "Ritual dances",
+      "Describing divine powers"
+    ]
+  },
+  "dola": {
+    "type": "Samyukta",
+    "meaning": "Walking Gait",
+    "description": "Pataka Hasta is placed to the sides of the thigh.",
+    "use_cases": [
+      "Beginning a dance",
+      "Neutral position",
+      "Walking depiction"
+    ],
+    "songs": [
+      "Alarippu starting pose",
+      "Transitions in choreography"
+    ]
+  },
+  "pushpaputam": {
+    "type": "Samyukta",
+    "meaning": "Offering Flowers",
+    "description": "Palms joined together at little fingers, cupped with a hollow center facing upward.",
+    "use_cases": [
+      "Offering flowers",
+      "Lamp or Arati",
+      "Devotion"
+    ],
+    "songs": [
+      "Pushpanjali",
+      "Offerings to deities"
+    ]
+  },
+  "utsangam": {
+    "type": "Samyukta",
+    "meaning": "Embrace/Shoulders",
+    "description": "Right and left palms touch opposite shoulders in Mrigashirsha Mudra.",
+    "use_cases": [
+      "Embrace",
+      "Affection",
+      "Instruction"
+    ],
+    "songs": [
+      "Guru Vandana",
+      "Mother-child emotion"
+    ]
+  },
+  "shivalingam": {
+    "type": "Samyukta",
+    "meaning": "Shiva Linga",
+    "description": "Left hand in Ardhachandra (palm up); right hand in Shikhara placed atop the left.",
+    "use_cases": [
+      "Representing Shiva Linga",
+      "Worship scenes",
+      "Devotion to Shiva"
+    ],
+    "songs": [
+      "Shivastuti",
+      "Lingashtakam"
+    ]
+  },
+  "katakavardhanam": {
+    "type": "Samyukta",
+    "meaning": "Coronation",
+    "description": "Both hands crossed in Katakamukha Mudra.",
+    "use_cases": [
+      "Marriage",
+      "Blessing",
+      "Coronation"
+    ],
+    "songs": [
+      "Divine weddings",
+      "Royal ceremonies"
+    ]
+  },
+  "karthariswastikam": {
+    "type": "Samyukta",
+    "meaning": "Palace, Hills, Trees",
+    "description": "Hands crossed in Kartarimukha Mudra.",
+    "use_cases": [
+      "Palace",
+      "Mountain",
+      "Trees"
+    ],
+    "songs": [
+      "Varnams describing scenery",
+      "Narrating nature"
+    ]
+  },
+  "shakatam": {
+    "type": "Samyukta",
+    "meaning": "Demon",
+    "description": "Both hands in Bhramara Mudra held near cheeks.",
+    "use_cases": [
+      "Demon representation",
+      "Terrifying expressions"
+    ],
+    "songs": [
+      "Narakasura or Asura scenes",
+      "Krishna Leela (Kamsa)"
+    ]
+  },
+  "shanka": {
+    "type": "Samyukta",
+    "meaning": "Conch",
+    "description": "Left thumb held with forefingers of right hand in Shikhara; right thumb touches left palm's middle finger.",
+    "use_cases": [
+      "Conch shell",
+      "Sound of Om",
+      "Ritual"
+    ],
+    "songs": [
+      "Krishna blowing conch",
+      "Mahabharata war beginning"
+    ]
+  },
+  "chakram": {
+    "type": "Samyukta",
+    "meaning": "Wheel/Disc",
+    "description": "Both palms in Ardhachandra; right palm vertical, left horizontal forming a disc shape.",
+    "use_cases": [
+      "Sudarshan Chakra",
+      "Divine weapon",
+      "Cycle"
+    ],
+    "songs": [
+      "Vishnu stutis",
+      "Describing weapons"
+    ]
+  },
+  "samputam": {
+    "type": "Samyukta",
+    "meaning": "Box",
+    "description": "Fingers in Chakra hasta bent inward to form a hollow center.",
+    "use_cases": [
+      "Storing",
+      "Secrecy",
+      "Treasure"
+    ],
+    "songs": [
+      "Mystical stories",
+      "Depicting containers"
+    ]
+  },
+  "paasha": {
+    "type": "Samyukta",
+    "meaning": "Rope/Quarrel",
+    "description": "Both hands in Tamrachuda Mudra, interlocked.",
+    "use_cases": [
+      "Bondage",
+      "Fight",
+      "Argument"
+    ],
+    "songs": [
+      "Asura battles",
+      "Tug-of-war dance scenes"
+    ]
+  },
+  "kilakam": {
+    "type": "Samyukta",
+    "meaning": "Love/Friendship",
+    "description": "Little fingers of both hands interlocked.",
+    "use_cases": [
+      "Affection",
+      "Relationship",
+      "Desire"
+    ],
+    "songs": [
+      "Sringara padams",
+      "Friendship scenes"
+    ]
+  },
+  "matsya": {
+    "type": "Samyukta",
+    "meaning": "Fish",
+    "description": "Right palm placed over the back of left palm, both in Ardhachandra.",
+    "use_cases": [
+      "Fish",
+      "Water element",
+      "Sea life"
+    ],
+    "songs": [
+      "Matsya avatar",
+      "Describing rivers"
+    ]
+  },
+  "kurma": {
+    "type": "Samyukta",
+    "meaning": "Tortoise",
+    "description": "Chakra hasta with all fingers bent except the thumb and little fingers.",
+    "use_cases": [
+      "Kurma avatar",
+      "Stability",
+      "Ocean churning"
+    ],
+    "songs": [
+      "Ksheera Sagara Mathanam",
+      "Vishnu Leela"
+    ]
+  },
+  "varaha": {
+    "type": "Samyukta",
+    "meaning": "Boar",
+    "description": "Both hands in Mrigashirsha; left palm placed over right palm.",
+    "use_cases": [
+      "Varaha avatar",
+      "Earth lifting",
+      "Strength"
+    ],
+    "songs": [
+      "Varaha Stuti",
+      "Vishnu Keertanams"
+    ]
+  },
+  "garuda": {
+    "type": "Samyukta",
+    "meaning": "Eagle / Garuda",
+    "description": "Both hands in Ardhachandra; placed over one another with thumbs interlocked.",
+    "use_cases": [
+      "Garuda (Vishnu's vahana)",
+      "Flight",
+      "Transport"
+    ],
+    "songs": [
+      "Garuda Gamana",
+      "Vishnu Leelas"
+    ]
+  },
+  "naagabandha": {
+    "type": "Samyukta",
+    "meaning": "Twisting Snakes",
+    "description": "Both hands in Sarpashirsha crossed at the wrists.",
+    "use_cases": [
+      "Snake entanglement",
+      "Nagabandhana rituals"
+    ],
+    "songs": [
+      "Krishna taming Kaliya",
+      "Shiva and snakes"
+    ]
+  },
+  "katva": {
+    "type": "Samyukta",
+    "meaning": "Bed",
+    "description": "Ring and middle fingers placed one over the other; index and little fingers point downward.",
+    "use_cases": [
+      "Reclining",
+      "Sleeping",
+      "Palace bed"
+    ],
+    "songs": [
+      "Vishnu resting",
+      "Padams depicting sleep"
+    ]
+  },
+  "berunda": {
+    "type": "Samyukta",
+    "meaning": "Pair of Birds",
+    "description": "Both hands in Kapitta Hasta crossed at the wrists.",
+    "use_cases": [
+      "Twin birds",
+      "Bird-like creatures",
+      "Mythical forms"
+    ],
+    "songs": [
+      "Stories of Bhairunda",
+      "Fantasy scenes"
+    ]
+  },
+  "avahitha": {
+    "type": "Samyukta",
+    "meaning": "Two Lotuses",
+    "description": "Both hands in Alapadma crossed at wrists and placed near the chest.",
+    "use_cases": [
+      "Offering",
+      "Presenting flowers",
+      "Decorative gestures"
+    ],
+    "songs": [
+      "Devi Stuti",
+      "Pushpanjali end pose"
+    ]
+  }
+}
